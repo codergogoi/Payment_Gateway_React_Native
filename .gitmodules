@@ -1,0 +1,3 @@
+[submodule "Stripe_React_Native"]
+	path = Stripe_React_Native
+	url = https://github.com/codergogoi/Stripe_React_Native
