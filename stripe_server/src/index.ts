@@ -77,6 +77,7 @@ app.post('/payment', async (req: Request, res: Response, next: NextFunction) => 
 })
 
 app.use('/', (req, res, next) => {
+    
     res.json('Thank you...')
 })
 
